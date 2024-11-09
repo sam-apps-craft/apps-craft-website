@@ -1,0 +1,33 @@
+{
+  "navigation.aboutAppsCraftHeading": "Crafting Standout Bespoke Solutions",
+  "navigation.aboutAppsCraft": "Apps-Craft specializes in creating. We build and deploy responsive websites, mobile apps, and custom computer programs tailored to your needs.",
+  "navigation.aboutHeading": "Serving Clients Across Borders",
+  "navigation.about": "Based in the UK and France, we serve a growing client base across borders. We're committed to delivering high-quality web solutions that help businesses succeed, no matter where they're located",
+  "navigation.servicesHeading": "Empowering Businesses Through Technology",
+  "navigation.services": "We offer a comprehensive suite of services to help businesses thrive in the digital age:",
+  "navigation.servicesList1": "Responsive Websites",
+  "navigation.servicesList2": "E-commerce Solutions",
+  "navigation.servicesList3": "Mobile Apps (Android, iOS, Windows)",
+  "navigation.servicesList4": "Custom Business Software (Intranet/Extranet)",
+  "navigation.contact": "Let's Discuss",
+  "navigation.contact1": "Contact us today to discuss your project and explore the details and requirements and let Apps-Craft put a proposal to you.",
+  "navigation.contactName": "Name",
+  "navigation.contactNameInput": "Enter your name",
+  "navigation.contactEmail": "Email Address",
+  "navigation.contactEmailInput": "Enter your email address",
+  "navigation.contactMessage": "Message",
+  "navigation.contactMessageInput": "What you are looking for, a brief description please",
+  "navigation.contactSubmit": "Submit",
+  "header.contact": "Contact",
+  "header.testimonials": "Testimonials",
+  "approach.heading": "Collaborative and Bespoke Solutions",
+  "approach": "At Apps-Craft, we believe in a collaborative approach. We work closely with our clients to understand their unique requirements and build bespoke solutions that meet their specific needs and budget. Our development process is transparent and iterative, ensuring your approval at every stage.",
+
+  "customer.heading": "Customer Testimonials",
+  "customer.test1heading": "SPM Webpage",
+  "customer.test1": "We are absolutely thrilled with our new website! The launch was fantastic, and the drone footage was an incredible touch. Sam's ideas and enthusiasm were infectious throughout the entire process. The website perfectly captures the essence of our business, and we are already seeing a positive impact.",
+  "customer.test2heading": "Société Provencal de Méchanique",
+  "customer.test2": "Our bespoke web and mobile app intranet program is a game-changer! Sam took our long and complicated quotation process and transformed it into an automated system. Now, our machine hours are recorded on the mobile app in the engineering room,  produces PDF quotations, sends reminders, confirms orders automatically. It also handles supplier orders, stock updates, and machine hour records - all in one place. It's a game changer and has cut down the time needed to create quotations massively!",
+
+  "about.content": "We are a team of passionate individuals..."
+}

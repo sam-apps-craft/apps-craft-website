@@ -3,6 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
+import { FormattedMessage } from "react-intl";
 
 function OurServices() {
   return (
@@ -16,16 +17,25 @@ function OurServices() {
           />
         </Col>
         <Col md={6}>
-          <h2>Empowering Businesses Through Technology</h2>
+          <h2>
+            <FormattedMessage id="navigation.servicesHeading" />
+          </h2>
           <p>
-            We offer a comprehensive suite of services to help businesses thrive
-            in the digital age:
+            <FormattedMessage id="navigation.services" />
           </p>
           <ul>
-            <li>Responsive Websites</li>
-            <li>E-commerce Solutions</li>
-            <li>Mobile Apps (Android, iOS, Windows)</li>
-            <li>Custom Business Software (Intranet/Extranet)</li>
+            <li>
+              <FormattedMessage id="navigation.servicesList1" />
+            </li>
+            <li>
+              <FormattedMessage id="navigation.servicesList2" />
+            </li>
+            <li>
+              <FormattedMessage id="navigation.servicesList3" />
+            </li>
+            <li>
+              <FormattedMessage id="navigation.servicesList4" />
+            </li>
           </ul>
         </Col>
       </Row>
